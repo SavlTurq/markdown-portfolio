@@ -1,2 +1,1 @@
-#### My GitHub
-[https://github.com/SavlTurq]
+#### [My GitHub](https://github.com/SavlTurq)
